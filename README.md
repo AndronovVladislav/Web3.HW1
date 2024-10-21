@@ -43,3 +43,9 @@
 
 ### Доп часть
 https://sepolia.etherscan.io/address/0x136f31d52f4ab9eaff9fc0fabf9537d934cbdd7a
+
+
+### NFT
+NFT залился, про метаданные не уверен, возможно просто не нашёл где они отображаются.
+
+![NFT](./attachments/1.png)
