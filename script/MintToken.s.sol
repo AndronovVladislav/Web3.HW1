@@ -4,7 +4,6 @@ pragma solidity ^0.8.20;
 import {Script} from "forge-std/Script.sol";
 import {MatematessaTokenERC721} from "contracts/ERC721.sol";
 
-
 contract MintTokenScript is Script {
     MatematessaTokenERC721 public token;
 
