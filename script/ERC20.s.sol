@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 import {Script} from "forge-std/Script.sol";
-import {MatematessaTokenERC20} from "../contracts/ERC20.sol";
+import {MatematessaTokenERC20} from "contracts/ERC20.sol";
 
 contract MatematessaTokenERC20Script is Script {
     MatematessaTokenERC20 public token;
